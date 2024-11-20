@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["A. Berlin", "B. Madrid", "C. Paris", "D. Rome"],
+        "answer": "C"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["A. Earth", "B. Mars", "C. Venus", "D. Jupiter"],
+        "answer": "B"
+    },
+    {
+        "question": "Who wrote 'Hamlet'?",
+        "options": ["A. Charles Dickens", "B. William Shakespeare", "C. J.K. Rowling", "D. Mark Twain"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": ["A. 50", "B. 100", "C. 150", "D. 200"],
+        "answer": "B"
+    }
+]
